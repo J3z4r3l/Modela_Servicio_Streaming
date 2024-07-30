@@ -42,7 +42,7 @@ introduce un número que está fuera del rango (1-3) se despliega un mensaje de 
 
 ## Diagrama UML
 
-![Diagrama UML](Simulink_Reto.jpg)
+![Diagrama UML](Uml.png)
 
 ## Requisitos
 
